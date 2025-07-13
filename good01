@@ -1,0 +1,38 @@
+const express = require('express');
+
+const app = express();
+
+▾app.get('/', (req, res) {
+  res.send('bot as ')
+});
+
+▾app.listen(3800, () => {
+   console.log) شغال(
+});
+ممنوع السرقة //
+const Discord = require("discord.js");
+const client = new Discord.Client();
+client.login(""); ///نیکی منا
+
+▾client.on("ready", () => {
+   client.user.setActivity('saadxdq754' )//18 عبد الحالة إلى بريد
+});
+
+▾client.on("message", async message => {
+
+  if (message.guild.id != "") return;
+  if (message.channel.id != "") return;
+  if(message.author.id ===client.user.id) return;
+      if (message.author send) {
+     message.channel.send({files: [""]});
+
+  }
+
+  });
+▾client.on('message', msg => {
+  if (msg.contentخط( }
+   msg.delete()
+   msg.reply(files: []});
+
+   } 
+  });             
