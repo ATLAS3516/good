@@ -12,7 +12,7 @@ const app = express();
 ممنوع السرقة //
 const Discord = require("discord.js");
 const client = new Discord.Client();
-client.login(""); ///نیکی منا
+client.login("MTM5MTE2NTEzODI1MzM4MTczNA.G53hbU.t0gFmYNIN3-YhHR5A_4c1mHTW895P46Wmr4Ilc"); ///نیکی منا
 
 ▾client.on("ready", () => {
    client.user.setActivity('saadxdq754' )//18 عبد الحالة إلى بريد
@@ -20,11 +20,11 @@ client.login(""); ///نیکی منا
 
 ▾client.on("message", async message => {
 
-  if (message.guild.id != "") return;
-  if (message.channel.id != "") return;
+  if (message.guild.id != "842771008800948254") return;
+  if (message.channel.id != "1255616942996328579") return;
   if(message.author.id ===client.user.id) return;
       if (message.author send) {
-     message.channel.send({files: [""]});
+     message.channel.send({files: ["https://cdn.discordapp.com/attachments/1216735219852247151/1393708274355933285/standard_3.gif?ex=687578fa&is=6874277a&hm=e68b74b205567ac5623f97394dccf890c2696ae640123b3e59c2389d2c67af01&"]});
 
   }
 
